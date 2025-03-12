@@ -1,0 +1,449 @@
+{
+    "matches": [
+      {
+        "match_id": 1,
+        "teams": "Chennai Super Kings - Royal Challengers Bengaluru",
+        "scorecard": "173/6 - 176/4",
+        "stadium": "MA Chidambaram Stadium, Chennai"
+      },
+      {
+        "match_id": 2,
+        "teams": "Delhi Capitals - Punjab Kings",
+        "scorecard": "174/9 - No score available",
+        "stadium": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur"
+      },
+      {
+        "match_id": 3,
+        "teams": "Kolkata Knight Riders - Sunrisers Hyderabad",
+        "scorecard": "No score available",
+        "stadium": "Eden Gardens, Kolkata"
+      },
+      {
+        "match_id": 4,
+        "teams": "Rajasthan Royals - Lucknow Super Giants",
+        "scorecard": "193/4 - 173/6",
+        "stadium": "Sawai Mansingh Stadium, Jaipur"
+      },
+      {
+        "match_id": 5,
+        "teams": "Gujarat Titans - Mumbai Indians",
+        "scorecard": "168/6 - 162/9",
+        "stadium": "Narendra Modi Stadium, Ahmedabad"
+      },
+      {
+        "match_id": 6,
+        "teams": "Royal Challengers Bengaluru - Punjab Kings",
+        "scorecard": "178/6 - 176/6",
+        "stadium": "M Chinnaswamy Stadium, Bengaluru"
+      },
+      {
+        "match_id": 7,
+        "teams": "Chennai Super Kings - Gujarat Titans",
+        "scorecard": "206/6 - 143/8",
+        "stadium": "MA Chidambaram Stadium, Chennai"
+      },
+      {
+        "match_id": 8,
+        "teams": "Sunrisers Hyderabad - Mumbai Indians",
+        "scorecard": "277/3 - 246/5",
+        "stadium": "Rajiv Gandhi International Stadium, Hyderabad"
+      },
+      {
+        "match_id": 9,
+        "teams": "Rajasthan Royals - Delhi Capitals",
+        "scorecard": "185/5 - 173/5",
+        "stadium": "Sawai Mansingh Stadium, Jaipur"
+      },
+      {
+        "match_id": 10,
+        "teams": "Royal Challengers Bengaluru - Kolkata Knight Riders",
+        "scorecard": "182/6 - 186/3",
+        "stadium": "M Chinnaswamy Stadium, Bengaluru"
+      },
+      {
+        "match_id": 11,
+        "teams": "Lucknow Super Giants - Punjab Kings",
+        "scorecard": "No score available",
+        "stadium": "Ekana Sports City, Lucknow"
+      },
+      {
+        "match_id": 12,
+        "teams": "Sunrisers Hyderabad - Gujarat Titans",
+        "scorecard": "No score available",
+        "stadium": "Rajiv Gandhi International Stadium, Hyderabad"
+      },
+      {
+        "match_id": 13,
+        "teams": "Delhi Capitals - Chennai Super Kings",
+        "scorecard": "No score available",
+        "stadium": "ACA-VDCA Cricket Stadium, Vishakhapatnam"
+      },
+      {
+        "match_id": 14,
+        "teams": "Mumbai Indians - Rajasthan Royals",
+        "scorecard": "179/9 - 183/1",
+        "stadium": "Wankhede Stadium, Mumbai"
+      },
+      {
+        "match_id": 15,
+        "teams": "Lucknow Super Giants - Royal Challengers Bengaluru",
+        "scorecard": "No score available",
+        "stadium": "Ekana Sports City, Lucknow"
+      },
+      {
+        "match_id": 16,
+        "teams": "Kolkata Knight Riders - Delhi Capitals",
+        "scorecard": "157/3 - 153/9",
+        "stadium": "Eden Gardens, Kolkata"
+      },
+      {
+        "match_id": 17,
+        "teams": "Gujarat Titans - Punjab Kings",
+        "scorecard": "No score available",
+        "stadium": "Narendra Modi Stadium, Ahmedabad"
+      },
+      {
+        "match_id": 18,
+        "teams": "Chennai Super Kings - Sunrisers Hyderabad",
+        "scorecard": "212/3 - 134/10",
+        "stadium": "MA Chidambaram Stadium, Chennai"
+      },
+      {
+        "match_id": 19,
+        "teams": "Royal Challengers Bengaluru - Rajasthan Royals",
+        "scorecard": "No score available",
+        "stadium": "M Chinnaswamy Stadium, Bengaluru"
+      },
+      {
+        "match_id": 20,
+        "teams": "Mumbai Indians - Delhi Capitals",
+        "scorecard": "247/9 - 257/4",
+        "stadium": "Wankhede Stadium, Mumbai"
+      },
+      {
+        "match_id": 21,
+        "teams": "Lucknow Super Giants - Gujarat Titans",
+        "scorecard": "No score available",
+        "stadium": "Ekana Sports City, Lucknow"
+      },
+      {
+        "match_id": 22,
+        "teams": "Kolkata Knight Riders - Chennai Super Kings",
+        "scorecard": "No score available",
+        "stadium": "Eden Gardens, Kolkata"
+      },
+      {
+        "match_id": 23,
+        "teams": "Sunrisers Hyderabad - Punjab Kings",
+        "scorecard": "No score available",
+        "stadium": "Rajiv Gandhi International Stadium, Hyderabad"
+      },
+      {
+        "match_id": 24,
+        "teams": "Rajasthan Royals - Gujarat Titans",
+        "scorecard": "No score available",
+        "stadium": "Sawai Mansingh Stadium, Jaipur"
+      },
+      {
+        "match_id": 25,
+        "teams": "Royal Challengers Bengaluru - Mumbai Indians",
+        "scorecard": "No score available",
+        "stadium": "M Chinnaswamy Stadium, Bengaluru"
+      },
+      {
+        "match_id": 26,
+        "teams": "Lucknow Super Giants - Delhi Capitals",
+        "scorecard": "189/9 - 208/4",
+        "stadium": "Ekana Sports City, Lucknow"
+      },
+      {
+        "match_id": 27,
+        "teams": "Punjab Kings - Rajasthan Royals",
+        "scorecard": "145/5 - 144/9",
+        "stadium": "Arun Jaitley Stadium, Delhi"
+      },
+      {
+        "match_id": 28,
+        "teams": "Kolkata Knight Riders - Lucknow Super Giants",
+        "scorecard": "No score available",
+        "stadium": "Eden Gardens, Kolkata"
+      },
+      {
+        "match_id": 29,
+        "teams": "Chennai Super Kings - Mumbai Indians",
+        "scorecard": "206/4 - 186/6",
+        "stadium": "MA Chidambaram Stadium, Chennai"
+      },
+      {
+        "match_id": 30,
+        "teams": "Sunrisers Hyderabad - Royal Challengers Bengaluru",
+        "scorecard": "287/3 - 262/7",
+        "stadium": "Rajiv Gandhi International Stadium, Hyderabad"
+      },
+      {
+        "match_id": 31,
+        "teams": "Kolkata Knight Riders - Rajasthan Royals",
+        "scorecard": "No score available",
+        "stadium": "Eden Gardens, Kolkata"
+      },
+      {
+        "match_id": 32,
+        "teams": "Gujarat Titans - Delhi Capitals",
+        "scorecard": "No score available",
+        "stadium": "Narendra Modi Stadium, Ahmedabad"
+      },
+      {
+        "match_id": 33,
+        "teams": "Mumbai Indians - Punjab Kings",
+        "scorecard": "No score available",
+        "stadium": "Wankhede Stadium, Mumbai"
+      },
+      {
+        "match_id": 34,
+        "teams": "Chennai Super Kings - Lucknow Super Giants",
+        "scorecard": "No score available",
+        "stadium": "MA Chidambaram Stadium, Chennai"
+      },
+      {
+        "match_id": 35,
+        "teams": "Delhi Capitals - Sunrisers Hyderabad",
+        "scorecard": "No score available",
+        "stadium": "Arun Jaitley Stadium, Delhi"
+      },
+      {
+        "match_id": 36,
+        "teams": "Kolkata Knight Riders - Royal Challengers Bengaluru",
+        "scorecard": "No score available",
+        "stadium": "Eden Gardens, Kolkata"
+      },
+      {
+        "match_id": 37,
+        "teams": "Punjab Kings - Gujarat Titans",
+        "scorecard": "No score available",
+        "stadium": "Himachal Pradesh Cricket Association Stadium, Dharamsala"
+      },
+      {
+        "match_id": 38,
+        "teams": "Mumbai Indians - Rajasthan Royals",
+        "scorecard": "No score available",
+        "stadium": "Wankhede Stadium, Mumbai"
+      },
+      {
+        "match_id": 39,
+        "teams": "Chennai Super Kings - Lucknow Super Giants",
+        "scorecard": "No score available",
+        "stadium": "MA Chidambaram Stadium, Chennai"
+      },
+      {
+        "match_id": 40,
+        "teams": "Delhi Capitals - Gujarat Titans",
+        "scorecard": "No score available",
+        "stadium": "Arun Jaitley Stadium, Delhi"
+      },
+      {
+        "match_id": 41,
+        "teams": "Royal Challengers Bengaluru - Sunrisers Hyderabad",
+        "scorecard": "No score available",
+        "stadium": "M Chinnaswamy Stadium, Bengaluru"
+      },
+      {
+        "match_id": 42,
+        "teams": "Kolkata Knight Riders - Punjab Kings",
+        "scorecard": "261/6 - 262/2",
+        "stadium": "Eden Gardens, Kolkata"
+      },
+      {
+        "match_id": 43,
+        "teams": "Delhi Capitals - Mumbai Indians",
+        "scorecard": "No score available",
+        "stadium": "Arun Jaitley Stadium, Delhi"
+      },
+      {
+        "match_id": 44,
+        "teams": "Lucknow Super Giants - Rajasthan Royals",
+        "scorecard": "No score available",
+        "stadium": "Ekana Sports City, Lucknow"
+      },
+      {
+        "match_id": 45,
+        "teams": "Gujarat Titans - Royal Challengers Bengaluru",
+        "scorecard": "No score available",
+        "stadium": "Narendra Modi Stadium, Ahmedabad"
+      },
+      {
+        "match_id": 46,
+        "teams": "Chennai Super Kings - Sunrisers Hyderabad",
+        "scorecard": "No score available",
+        "stadium": "MA Chidambaram Stadium, Chennai"
+      },
+      {
+        "match_id": 47,
+        "teams": "Delhi Capitals - Kolkata Knight Riders",
+        "scorecard": "No score available",
+        "stadium": "Arun Jaitley Stadium, Delhi"
+      },
+      {
+        "match_id": 48,
+        "teams": "Mumbai Indians - Lucknow Super Giants",
+        "scorecard": "196/6 - 214/6",
+        "stadium": "Wankhede Stadium, Mumbai"
+      },
+      {
+        "match_id": 49,
+        "teams": "Chennai Super Kings - Punjab Kings",
+        "scorecard": "162/7 - 163/3",
+        "stadium": "MA Chidambaram Stadium, Chennai"
+      },
+      {
+        "match_id": 50,
+        "teams": "Sunrisers Hyderabad - Rajasthan Royals",
+        "scorecard": "No score available",
+        "stadium": "Rajiv Gandhi International Stadium, Hyderabad"
+      },
+      {
+        "match_id": 51,
+        "teams": "Kolkata Knight Riders - Mumbai Indians",
+        "scorecard": "157/7 - 139/8",
+        "stadium": "Eden Gardens, Kolkata"
+      },
+      {
+        "match_id": 52,
+        "teams": "Gujarat Titans - Royal Challengers Bengaluru",
+        "scorecard": "No score available",
+        "stadium": "Narendra Modi Stadium, Ahmedabad"
+      },
+      {
+        "match_id": 53,
+        "teams": "Chennai Super Kings - Punjab Kings",
+        "scorecard": "No score available",
+        "stadium": "Himachal Pradesh Cricket Association Stadium, Dharamsala"
+      },
+      {
+        "match_id": 54,
+        "teams": "Kolkata Knight Riders - Lucknow Super Giants",
+        "scorecard": "No score available",
+        "stadium": "Eden Gardens, Kolkata"
+      },
+      {
+        "match_id": 55,
+        "teams": "Sunrisers Hyderabad - Mumbai Indians",
+        "scorecard": "No score available",
+        "stadium": "Rajiv Gandhi International Stadium, Hyderabad"
+      },
+      {
+        "match_id": 56,
+        "teams": "Delhi Capitals - Rajasthan Royals",
+        "scorecard": "No score available",
+        "stadium": "Arun Jaitley Stadium, Delhi"
+      },
+      {
+        "match_id": 57,
+        "teams": "Lucknow Super Giants - Sunrisers Hyderabad",
+        "scorecard": "No score available",
+        "stadium": "Ekana Sports City, Lucknow"
+      },
+      {
+        "match_id": 58,
+        "teams": "Royal Challengers Bengaluru - Punjab Kings",
+        "scorecard": "241/7 - 181/10",
+        "stadium": "Himachal Pradesh Cricket Association Stadium, Dharamsala"
+      },
+      {
+        "match_id": 59,
+        "teams": "Gujarat Titans - Chennai Super Kings",
+        "scorecard": "231/3 - 196/8",
+        "stadium": "Narendra Modi Stadium, Ahmedabad"
+      },
+      {
+        "match_id": 60,
+        "teams": "Kolkata Knight Riders - Mumbai Indians",
+        "scorecard": "No score available",
+        "stadium": "Eden Gardens, Kolkata"
+      },
+      {
+        "match_id": 61,
+        "teams": "Rajasthan Royals - Chennai Super Kings",
+        "scorecard": "141/5 - 145/5",
+        "stadium": "MA Chidambaram Stadium, Chennai"
+      },
+      {
+        "match_id": 62,
+        "teams": "Royal Challengers Bengaluru - Delhi Capitals",
+        "scorecard": "187/9 - 140/10",
+        "stadium": "M Chinnaswamy Stadium, Bengaluru"
+      },
+      {
+        "match_id": 63,
+        "teams": "Gujarat Titans - Kolkata Knight Riders",
+        "scorecard": "No score available",
+        "stadium": "Narendra Modi Stadium, Ahmedabad"
+      },
+      {
+        "match_id": 64,
+        "teams": "Delhi Capitals - Lucknow Super Giants",
+        "scorecard": "No score available",
+        "stadium": "Arun Jaitley Stadium, Delhi"
+      },
+      {
+        "match_id": 65,
+        "teams": "Rajasthan Royals - Punjab Kings",
+        "scorecard": "144/9 - 145/5",
+        "stadium": "Barsapara Cricket Stadium, Guwahati"
+      },
+      {
+        "match_id": 66,
+        "teams": "Sunrisers Hyderabad - Gujarat Titans",
+        "scorecard": "No score available",
+        "stadium": "Rajiv Gandhi International Stadium, Hyderabad"
+      },
+      {
+        "match_id": 67,
+        "teams": "Mumbai Indians - Lucknow Super Giants",
+        "scorecard": "No score available",
+        "stadium": "Wankhede Stadium, Mumbai"
+      },
+      {
+        "match_id": 68,
+        "teams": "Royal Challengers Bengaluru - Chennai Super Kings",
+        "scorecard": "No score available",
+        "stadium": "M Chinnaswamy Stadium, Bengaluru"
+      },
+      {
+        "match_id": 69,
+        "teams": "Sunrisers Hyderabad - Punjab Kings",
+        "scorecard": "No score available",
+        "stadium": "Rajiv Gandhi International Stadium, Hyderabad"
+      },
+      {
+        "match_id": 70,
+        "teams": "Rajasthan Royals - Kolkata Knight Riders",
+        "scorecard": "No score available",
+        "stadium": "Barsapara Cricket Stadium, Guwahati"
+      },
+      {
+        "match_id": 71,
+        "teams": "Qualifier 1: Sunrisers Hyderabad vs Kolkata Knight Riders",
+        "scorecard": "159 (19.3 overs) - 164/2 (13.4 overs)",
+        "stadium": "Narendra Modi Stadium, Ahmedabad"
+      },
+      {
+        "match_id": 72,
+        "teams": "Eliminator: Royal Challengers Bengaluru vs Rajasthan Royals",
+        "scorecard": "No score available",
+        "stadium": "Narendra Modi Stadium, Ahmedabad"
+      },
+      {
+        "match_id": 73,
+        "teams": "Qualifier 2: Sunrisers Hyderabad vs Rajasthan Royals",
+        "scorecard": "No score available",
+        "stadium": "MA Chidambaram Stadium, Chennai"
+      },
+      {
+        "match_id": 74,
+        "teams": "Final: Sunrisers Hyderabad vs Kolkata Knight Riders",
+        "scorecard": "No score available",
+        "stadium": "MA Chidambaram Stadium, Chennai"
+      }
+    ]
+  }
+  

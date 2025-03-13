@@ -5,24 +5,28 @@
         "teams": "Chennai Super Kings - Royal Challengers Bengaluru",
         "scorecard": "173/6 - 176/4",
         "stadium": "MA Chidambaram Stadium, Chennai"
+        "6s-in-2overs": "none"
       },
       {
         "match_id": 2,
         "teams": "Delhi Capitals - Punjab Kings",
-        "scorecard": "174/9 - No score available",
+        "scorecard": "174/9 - 177/6",
         "stadium": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur"
+        "6s-in-2overs": "one"
       },
       {
         "match_id": 3,
         "teams": "Kolkata Knight Riders - Sunrisers Hyderabad",
-        "scorecard": "No score available",
+        "scorecard": "208/7 - 204/7",
         "stadium": "Eden Gardens, Kolkata"
+        "6s-in-2overs": "one"
       },
       {
         "match_id": 4,
         "teams": "Rajasthan Royals - Lucknow Super Giants",
         "scorecard": "193/4 - 173/6",
         "stadium": "Sawai Mansingh Stadium, Jaipur"
+        "6s-in-2overs": "none"
       },
       {
         "match_id": 5,
